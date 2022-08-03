@@ -1,0 +1,26 @@
+{
+  "name": "hatech-web-component-rich-editor",
+  "version": "0.0.3",
+  "description": "同创前端富文本编辑器组件",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.hatech.com.cn:8088/hatech-web/hatech-web-component-rich-editor.git"
+  },
+  "keywords": [
+    "editor"
+  ],
+  "author": {
+    "name": "qiangang",
+    "email": "qiangang@hatech.com.cn"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^3.2.3",
+    "hatech-web-component": "0.0.8",
+    "tinymce": "^5.3.2"
+  }
+}
